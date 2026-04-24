@@ -1,50 +1,97 @@
-## Hi there 👋
-
-<!--
-**Sonu2434/Sonu2434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <h1 align="center">Hi 👋, I'm Sonu Sanju</h1>
-<h3 align="center">Turning coffee ☕ into code 💻 | B.Tech CSE | Future Software Engineer</h3>
+<h3 align="center">🚀 Full Stack Developer | ⚡ Problem Solver | 💡 Building Scalable Systems</h3>
 
-<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75000&lines=Full+Stack+Developer+in+Progress;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;400%2B+DSA+Problems;Building+JINI+Ecommerce+Platform" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech in **Computer Science** at CV Raman Global University, Odisha  
-- 🌱 Currently learning **Full-Stack Development & AI**  
-- 💡 Passionate about **Open Source** and **Problem Solving**  
-- 🤝 Looking to collaborate on exciting **Web Development Projects**  
+## 🧑‍💻 About Me
+
+* 🔥 Currently building **JINI** – Multi-Seller E-commerce Platform
+* 🧠 Solved **400+ DSA problems**
+* ⚡ Passionate about **Backend Systems & Scalability**
+* 🎯 Goal: Crack **Top Product-Based Companies**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,java,python,git,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,redux,tailwind,git,github,vscode" />
 </p>
+
+---
+
+## 🧠 Featured Projects
+
+### 🛒 JINI – E-commerce Platform
+
+✨ Multi-role system (Buyer | Seller | Admin)
+💳 Razorpay Integration
+🔐 Secure Auth + Order Workflow
+
+---
+
+### 🌊 Aqua Sampada
+
+📊 ML-based groundwater prediction
+⚡ 74% faster processing
+📈 Real-time analytics dashboards
+
+---
+
+### 😊 Emotion Detection System
+
+🧠 BERT + CNN model
+🎯 95% Accuracy
+🎥 Multimodal (Text + Audio + Video)
+
+---
+
+### 📚 CGU Beez
+
+📂 Question bank platform
+🛠 Admin dashboard
+🌗 Dark/Light mode
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonu2434&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonu2434&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonu2434&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Sonu2434&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🧩 Contribution Graph
+
 <p align="center">
-  <img src="https://github.com/sonu2434/sonu2434/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu2434&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+## 🏆 Achievements
+
+* 🧠 400+ DSA Problems Solved
+* 🏆 Smart India Hackathon Participant
+* 📜 SQL Certified (HackerRank)
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sonu-sanu-99a55bc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sonusanju9955@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sonu-sanju-99a55bc"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:sonusanju9955@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+---
+
+<p align="center">
+🔥 “Code. Build. Scale. Repeat.” 🔥
 </p>
