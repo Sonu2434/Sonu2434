@@ -68,9 +68,7 @@
 ---
 
 ## 🧩 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sonu2434/Sonu2434/output/github-contribution-grid-snake.svg" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu2434&theme=tokyo-night&hide_border=true"/>
 </p>
@@ -96,4 +94,7 @@
 
 <p align="center">
 🔥 “Code. Build. Scale. Repeat.” 🔥
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu2434/Sonu2434/output/github-contribution-grid-snake.svg" />
 </p>
