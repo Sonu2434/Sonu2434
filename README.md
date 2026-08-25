@@ -1,115 +1,503 @@
-<h1 align="center">Hi 👋, I'm Sonu Sanju</h1>
-<h3 align="center">A passionate Full-Stack MERN Developer from India</h3>
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonu2434&label=Profile%20views&color=0e75b6&style=flat" alt="sonu2434" />
-  <img src="https://img.shields.io/github/followers/sonu2434?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/sonu2434?label=Stars&style=social" alt="stars" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Sonu%20Sanju&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sonu-sanju-99a55bc" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://github.com/Sonu2434">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;MERN+Stack+Engineer;JavaScript+%7C+Java+%7C+SQL;Building+Scalable+Web+Applications;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <i>Building practical software, solving problems, and continuously becoming a better engineer.</i>
+</p>
+
+<br>
+
+<!-- ========================= PROFILE BADGES ========================= -->
+
+<p align="center">
+
+  <a href="https://github.com/Sonu2434">
+    <img src="https://img.shields.io/badge/GitHub-Sonu2434-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sonu-sanju-99a55bc">
+    <img src="https://img.shields.io/badge/LinkedIn-Sonu%20Sanju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
   <a href="mailto:sonusanju9955@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</p>
+
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Sonu2434&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+
+  <img src="https://img.shields.io/github/followers/Sonu2434?label=FOLLOWERS&style=for-the-badge&color=00C6FF&logo=github" alt="Followers"/>
+
+  <img src="https://img.shields.io/github/stars/Sonu2434?affiliations=OWNER&label=STARS&style=for-the-badge&color=FFD700&logo=github" alt="Stars"/>
+
+</p>
+
+---
+
+<!-- ========================= ABOUT ME ========================= -->
+
+# 👨‍💻 About Me
+
+I'm **Sonu Sanju**, a **Full-Stack Developer / Software Engineer** passionate about building reliable, scalable and user-focused applications.
+
+I enjoy working across the complete development lifecycle — from designing responsive interfaces and building reusable React components to developing REST APIs, managing databases, debugging applications and exploring scalable backend architecture.
+
+### 🚀 My Development Focus
+
+```text
+Frontend Development     → React.js • JavaScript • HTML5 • CSS3 • Redux
+Backend Development      → Node.js • Express.js • REST APIs
+Programming              → Java • JavaScript • Python • SQL
+Databases                → MongoDB • MySQL
+Development              → Git • GitHub • Postman • Docker
+Currently Exploring      → TypeScript • System Design • DevOps
+```
+
+### 🎯 What I Care About
+
+* 🧠 Strong problem-solving
+* 🏗️ Clean and maintainable architecture
+* ⚡ Performance and scalability
+* 🎨 Good user experience
+* 🔐 Secure and reliable applications
+* 📚 Continuous learning
+* 🚀 Turning ideas into real products
+
+---
+
+<!-- ========================= CURRENTLY BUILDING ========================= -->
+
+# 🔭 Currently Building
+
+## 🧩 JINI
+
+A full-stack web application focused on creating a **practical, scalable and user-friendly product experience**.
+
+### Current focus
+
+```text
+Frontend
+   ↓
+Reusable Components
+   ↓
+API Integration
+   ↓
+Backend Architecture
+   ↓
+Database
+   ↓
+Scalable Application
+```
+
+<a href="https://github.com/Sonu2434/Jini-copy">
+  <img src="https://img.shields.io/badge/🚀%20View%20JINI%20Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="JINI Repository"/>
+</a>
+
+> 🚧 Actively learning, building and improving.
+
+---
+
+<!-- ========================= GITHUB OVERVIEW ========================= -->
+
+# 📊 GitHub Overview
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSonu2434&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=6C63FF&logo=github&logoColor=white" alt="Public Repositories"/>
+
+  <img src="https://img.shields.io/github/stars/Sonu2434?affiliations=OWNER&label=STARS%20RECEIVED&style=for-the-badge&color=FFD700&logo=github&logoColor=white" alt="Stars Received"/>
+
+  <img src="https://img.shields.io/github/followers/Sonu2434?label=FOLLOWERS&style=for-the-badge&color=00C6FF&logo=github&logoColor=white" alt="Followers"/>
+
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sonu2434&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=21600&custom_title=Sonu%27s%20GitHub%20Analytics"
+    alt="Sonu Sanju GitHub Analytics"
+    width="495"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu2434&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600&custom_title=Most%20Used%20Languages"
+    alt="Sonu Sanju Top Languages"
+    width="495"
+  />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Sonu2434&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="Sonu Sanju GitHub Contribution Streak"
+    width="700"
+  />
+</p>
+
+<p align="center">
+  <i>Consistency compounds. Every contribution is another step forward.</i>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu2434&theme=tokyo-night&hide_border=true&area=true&custom_title=Sonu%20Sanju%27s%20Contribution%20Activity"
+    alt="Sonu Sanju Contribution Activity Graph"
+    width="100%"
+  />
+</p>
+
+---
+
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧩 JINI</h3>
+
+<p>
+A full-stack application focused on building a practical and user-friendly product experience.
+</p>
+
+<p>
+<a href="https://github.com/Sonu2434/Jini-copy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu2434&repo=Jini-copy&theme=tokyonight&hide_border=true&cache_seconds=21600" width="100%" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚡ TaskFlow</h3>
+
+<p>
+A productivity-oriented application centered around task management and a clean user experience.
+</p>
+
+<p>
+<a href="https://github.com/Sonu2434/taskflow">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu2434&repo=taskflow&theme=tokyonight&hide_border=true&cache_seconds=21600" width="100%" />
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛒 ChillMaaro</h3>
+
+<p>
+An e-commerce project focused on creating a complete online shopping experience.
+</p>
+
+<p>
+<a href="https://github.com/Sonu2434/chillmaaro-project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu2434&repo=chillmaaro-project&theme=tokyonight&hide_border=true&cache_seconds=21600" width="100%" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎓 CGU-BeeZ</h3>
+
+<p>
+A question-bank application designed to support accessible and organized academic preparation.
+</p>
+
+<p>
+<a href="https://github.com/Sonu2434/CGU-BeeZ">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu2434&repo=CGU-BeeZ&theme=tokyonight&hide_border=true&cache_seconds=21600" width="100%" />
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌦️ Weather Application</h3>
+
+<p>
+A weather application using API integration to provide real-time weather information.
+</p>
+
+<p>
+<a href="https://github.com/Sonu2434/Weather-Application">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu2434&repo=Weather-Application&theme=tokyonight&hide_border=true&cache_seconds=21600" width="100%" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🗺️ Skills Map</h3>
+
+<p>
+An interactive project showcasing technologies and development skills.
+</p>
+
+<p>
+<a href="https://github.com/Sonu2434/Skills-Map">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu2434&repo=Skills-Map&theme=tokyonight&hide_border=true&cache_seconds=21600" width="100%" />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Sonu2434?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+<!-- ========================= TECH STACK ========================= -->
 
-- 🔭 I'm currently working on **[JINI](https://github.com/Sonu2434/Jini2.git)** — a full-stack web application focused on building a practical, scalable, and user-friendly product experience.
-- 🌱 I'm currently learning **Backend architecture, TypeScript, System Design, DevOps, and modern full-stack development.**
-- 👯 I'm looking to collaborate on **open-source full-stack projects, developer tools, and impactful web applications.**
-- 🤝 I'm looking for help with **Full-Stack Architecture & System Design.**
-- 👨‍💻 All of my projects are available at **[github.com/Sonu2434](https://github.com/Sonu2434)**
-- 💬 Ask me about **React, JavaScript, MERN Stack, REST APIs, Node.js, Java, SQL, and Full-Stack Development.**
-- 📫 Reach me at **sonusanju9955@gmail.com**
-- ⚡ Fun fact: **I enjoy breaking my ideas into real-world applications and solving problems one line of code at a time.**
+# 🛠️ Tech Stack
 
----
-
-### 🏆 GitHub Trophies
+### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonu2434&theme=radical&no-frame=true&row=1&column=7" alt="sonu2434 trophies" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,python,c&perline=8" alt="Programming Languages"/>
+  </a>
 </p>
 
----
-
-### 📊 GitHub Stats
+### 🎨 Frontend
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sonu2434&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="sonu2434 stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu2434&layout=compact&theme=radical" alt="sonu2434 top languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,tailwind&perline=8" alt="Frontend Technologies"/>
+  </a>
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=8" alt="Backend Technologies"/>
+  </a>
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=8" alt="Databases"/>
+  </a>
+</p>
+
+### ☁️ Tools & Development
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,figma&perline=8" alt="Development Tools"/>
+  </a>
+</p>
+
+---
+
+<!-- ========================= LEARNING ========================= -->
+
+# 📚 Currently Learning
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=700&lines=Backend+Architecture;System+Design;TypeScript;DevOps+%26+Deployment;Scalable+Full-Stack+Applications" alt="Learning Roadmap"/>
+</p>
+
+<table align="center">
+<tr>
+<td align="center">🏗️<br><b>Backend Architecture</b></td>
+<td>→</td>
+<td align="center">🧠<br><b>System Design</b></td>
+<td>→</td>
+<td align="center">🔷<br><b>TypeScript</b></td>
+<td>→</td>
+<td align="center">⚙️<br><b>DevOps</b></td>
+<td>→</td>
+<td align="center">🚀<br><b>Scalable Systems</b></td>
+</tr>
+</table>
+
+> My goal is not just to **write code**, but to understand how software should be **designed, structured, tested, deployed and scaled**.
+
+---
+
+<!-- ========================= COLLABORATION ========================= -->
+
+# 🤝 Let's Collaborate
+
+I'm interested in collaborating on projects involving:
+
+<table>
+<tr>
+<td>🌐 <b>Full-Stack Applications</b><br>Modern web products and platforms</td>
+<td>🔓 <b>Open Source</b><br>Developer-focused projects</td>
+</tr>
+
+<tr>
+<td>🤖 <b>AI-Powered Apps</b><br>Interesting AI + web ideas</td>
+<td>🧰 <b>Developer Tools</b><br>Tools that improve developer productivity</td>
+</tr>
+
+<tr>
+<td>🚀 <b>Startup Ideas</b><br>Building products from the ground up</td>
+<td>🧠 <b>Software Engineering</b><br>Interesting technical challenges</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>Have an interesting idea?</b><br>
+  Let's turn it into something real. 🚀
+</p>
+
+---
+
+<!-- ========================= CONNECT ========================= -->
+
+# 📬 Connect With Me
+
+<p align="center">
+  <i>Whether it's a project, collaboration, opportunity, or just a conversation about technology — feel free to reach out.</i>
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+<h3>💼 LinkedIn</h3>
+
+<a href="https://www.linkedin.com/in/sonu-sanju-99a55bc">
+  <img src="https://img.shields.io/badge/Connect-Sonu%20Sanju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br><br>
+
+<sub>Let's connect professionally</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>📧 Email</h3>
+
+<a href="mailto:sonusanju9955@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+<sub>Let's discuss opportunities</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>💻 GitHub</h3>
+
+<a href="https://github.com/Sonu2434">
+  <img src="https://img.shields.io/badge/Follow-Sonu2434-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+<sub>Explore my work</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/Sonu2434">
+<img src="https://img.shields.io/badge/⭐%20Explore%20My%20Work-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Work"/>
+</a>
+
+ 
+
+<a href="mailto:sonusanju9955@gmail.com">
+<img src="https://img.shields.io/badge/💬%20Let's%20Talk-00C6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk"/>
+</a>
+
+</p>
+
+---
+
+<!-- ========================= PHILOSOPHY ========================= -->
+
+# 💡 Developer Philosophy
+
+<p align="center">
+
+### <i>"Don't just write code. Build something that solves a real problem."</i>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu2434&theme=radical" alt="sonu2434 streak stats" />
+I believe great software comes from combining
+<b>problem-solving, clean engineering, continuous learning, and empathy for users.</b>
+</p>
+
+---
+
+<!-- ========================= FOOTER ========================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=120&section=footer&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu2434&theme=radical&hide_border=true" alt="sonu2434 contribution graph" />
+  <b>⭐ If you find something useful in my repositories, consider giving it a star!</b>
 </p>
 
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|---|---|---|---|
-| **JINI** | A full-stack web application focused on a practical, scalable, user-friendly product experience. | MERN Stack | [Repo](https://github.com/Sonu2434/Jini2.git) |
-| _Add your next project here_ | _Short one-line description_ | _Tech used_ | _Link_ |
-| _Add your next project here_ | _Short one-line description_ | _Tech used_ | _Link_ |
-
-> 💡 Tip: pin your best repos on your GitHub profile (Customize your pins → pick up to 6) so they show up right below your bio, in addition to this table.
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
+<p align="center">
+  <i>Thanks for visiting my profile — let's build something amazing together. 🚀</i>
 </p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sonu-sanju-99a55bc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu-sanju-99a55bc" height="30" width="40" /></a>
-</p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/Sonu2434">Sonu2434</a> — thanks for stopping by!</i></p>
