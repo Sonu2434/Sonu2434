@@ -44,11 +44,15 @@
 
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00C6FF&height=3&section=header" width="60%"/>
+</p>
 
 <!-- ========================= ABOUT ME ========================= -->
 
 # 👨‍💻 About Me
+
+<img align="right" width="340" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react spin" />
 
 I'm **Sonu Sanju**, a **Full-Stack Developer / Software Engineer** passionate about building reliable, scalable and user-focused applications.
 
@@ -74,6 +78,8 @@ Currently Exploring      → TypeScript • System Design • DevOps
 * 🔐 Secure and reliable applications
 * 📚 Continuous learning
 * 🚀 Turning ideas into real products
+
+<br clear="right"/>
 
 ---
 
@@ -167,6 +173,18 @@ Scalable Application
     alt="Sonu Sanju Contribution Activity Graph"
     width="100%"
   />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sonu2434/Sonu2434/output/github-contribution-grid-snake-dark.svg" alt="Sonu Sanju's contribution snake animation" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>Animated snake that "eats" through your contribution graph — see the setup note at the bottom of this file to activate it.</sub>
 </p>
 
 ---
@@ -461,7 +479,7 @@ I'm interested in collaborating on projects involving:
 <img src="https://img.shields.io/badge/⭐%20Explore%20My%20Work-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Work"/>
 </a>
 
- 
+ 
 
 <a href="mailto:sonusanju9955@gmail.com">
 <img src="https://img.shields.io/badge/💬%20Let's%20Talk-00C6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk"/>
@@ -501,3 +519,20 @@ I believe great software comes from combining
 <p align="center">
   <i>Thanks for visiting my profile — let's build something amazing together. 🚀</i>
 </p>
+
+<!--
+  ⚙️ SETUP NOTE — Contribution Snake Animation
+  The "Contribution Snake" image above will show a broken image until you
+  activate it. This is a GitHub Action (not a static image link), so it has
+  to run once inside YOUR repo to generate the SVG file it points to.
+
+  Steps:
+  1. In your Sonu2434/Sonu2434 repo, create .github/workflows/snake.yml
+     using the workflow file provided alongside this README.
+  2. Go to repo Settings → Actions → General → Workflow permissions,
+     and enable "Read and write permissions".
+  3. Run the workflow once manually (Actions tab → "Generate Snake" → Run workflow),
+     or just push a commit — it also runs daily on a schedule.
+  4. It will create an "output" branch containing the generated SVG,
+     which is exactly what the image tag above points to.
+-->
