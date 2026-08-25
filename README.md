@@ -147,7 +147,7 @@ Scalable Application
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Sonu2434&theme=tokyonight&hide_border=true&border_radius=12"
+    src="https://github-readme-streak-vercel.vercel.app/?user=Sonu2434&theme=tokyonight&hide_border=true&border_radius=12"
     alt="Sonu Sanju GitHub Contribution Streak"
     width="700"
   />
