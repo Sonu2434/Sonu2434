@@ -1,36 +1,284 @@
-<h1 align="center">Hi 👋, I'm Sonu Sanju</h1>
-<h3 align="center">A passionate Full-Stack MERN Developer from India</h3>
+# 👋 Hi, I'm Sonu Sanju
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu2434&label=Profile%20views&color=0e75b6&style=flat" alt="sonu2434" /> </p>
+### 🚀 Full-Stack Developer | MERN | JavaScript | Java | Software Engineering
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonu2434" alt="sonu2434" /></a> </p>
-
-- 🔭 I’m currently working on [JINI— a full-stack web application focused on building a practical, scalable, and user-friendly product experience.](https://github.com/Sonu2434/Jini2.git)
-
-- 🌱 I’m currently learning **Backend architecture, TypeScript, System design,DevOps and modern full-stack development.**
-
-- 👯 I’m looking to collaborate on Open-source full-stack projects, developer tools, and impactful web applications. [Open-Source Full-Stack Projects](Sonu2434)
-
-- 🤝 I’m looking for help with [Full-Stack Architecture & System Design](Sonu2434)
-
-- 👨‍💻 All of my projects are available at [Sonu2434](Sonu2434)
-
-- 💬 Ask me about **React, JavaScript, MERN Stack, REST APIs, Node.js, Java, SQL, and Full-Stack Development**
-
-- 📫 How to reach me **sonusanju9955@gmail.com**
-
-- ⚡ Fun fact **I enjoy Breaking my ideas into real-world applications and solving problems one line of code at a time.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sonu-sanju-99a55bc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu-sanju-99a55bc" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Sonu2434">
+    <img src="https://komarev.com/ghpvc/?username=Sonu2434&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Sonu2434?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sonu2434?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Sonu2434?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Sonu2434?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <b>Building scalable web applications, solving problems, and continuously learning better ways to engineer software.</b>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu2434&show_icons=true&locale=en&layout=compact" alt="sonu2434" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu2434&show_icons=true&locale=en" alt="sonu2434" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu2434&" alt="sonu2434" /></p>
+I'm a **Full-Stack Developer / Software Engineer** passionate about transforming ideas into reliable, user-focused applications.
+
+I enjoy working across the entire development lifecycle — from designing responsive interfaces and building REST APIs to database management, application architecture, debugging, and deployment.
+
+* 🔭 Currently building and improving **full-stack web applications**
+* 🌱 Currently learning **Backend Architecture, TypeScript, System Design, DevOps & modern full-stack development**
+* 💬 Ask me about **React, JavaScript, MERN, Node.js, REST APIs, Java, SQL & Full-Stack Development**
+* 🤝 Open to collaborating on **open-source projects, developer tools & impactful applications**
+* 🎯 Interested in **Software Engineering, Full-Stack Development, AI & Open Source**
+* ⚡ Fun fact: **I turn coffee, curiosity and code into working applications. ☕💻**
+
+---
+
+## 🚀 What I Build
+
+```text
+Frontend Development     → React.js • JavaScript • HTML5 • CSS3 • Redux
+Backend Development      → Node.js • Express.js • REST APIs
+Programming              → Java • JavaScript • Python • SQL
+Databases                → MongoDB • MySQL • SQL
+Development Tools        → Git • GitHub • Postman • Docker
+Currently Exploring      → TypeScript • System Design • DevOps • Backend Architecture
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Sonu2434">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sonu2434&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Sonu's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sonu2434">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu2434&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sonu2434&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/Sonu2434">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonu2434&theme=tokyo-night&hide_border=true&area=true" alt="Sonu's Contribution Activity Graph" />
+  </a>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/Sonu2434">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sonu2434&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🧩 Jini-copy
+
+**A full-stack project focused on building a practical and user-friendly web experience.**
+
+<a href="https://github.com/Sonu2434/Jini-copy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu2434&repo=Jini-copy&theme=tokyonight&hide_border=true" alt="Jini-copy" />
+</a>
+
+---
+
+### ⚡ TaskFlow
+
+**A productivity-focused application designed around task management and a clean user experience.**
+
+<a href="https://github.com/Sonu2434/taskflow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu2434&repo=taskflow&theme=tokyonight&hide_border=true" alt="TaskFlow" />
+</a>
+
+---
+
+### 🛒 ChillMaaro
+
+**A multi-vendor e-commerce platform focused on creating a complete online shopping experience.**
+
+<a href="https://github.com/Sonu2434/chillmaaro-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu2434&repo=chillmaaro-project&theme=tokyonight&hide_border=true" alt="ChillMaaro" />
+</a>
+
+---
+
+### 🎓 CGU-BeeZ
+
+**A question-bank web application built to provide an accessible platform for academic preparation.**
+
+<a href="https://github.com/Sonu2434/CGU-BeeZ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu2434&repo=CGU-BeeZ&theme=tokyonight&hide_border=true" alt="CGU-BeeZ" />
+</a>
+
+---
+
+### 🌦️ Weather Application
+
+**A simple and interactive weather application providing real-time weather information through API integration.**
+
+<a href="https://github.com/Sonu2434/Weather-Application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu2434&repo=Weather-Application&theme=tokyonight&hide_border=true" alt="Weather Application" />
+</a>
+
+---
+
+### 🗺️ Skills Map
+
+**An interactive skill-map project showcasing technologies and development skills.**
+
+<a href="https://github.com/Sonu2434/Skills-Map">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sonu2434&repo=Skills-Map&theme=tokyonight&hide_border=true" alt="Skills Map" />
+</a>
+
+---
+
+# 🛠️ Languages & Technologies
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="45" height="45" alt="Tailwind CSS" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="45" height="45" alt="NestJS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
+</p>
+
+### ☁️ Tools & DevOps
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Backend Architecture
+        ↓
+System Design
+        ↓
+TypeScript
+        ↓
+DevOps & Deployment
+        ↓
+Scalable Full-Stack Applications
+```
+
+I'm particularly interested in understanding not only **how to build applications**, but also **how to design them to be maintainable, scalable and production-ready**.
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm open to collaborating on:
+
+* 🌐 Full-stack web applications
+* 🔓 Open-source projects
+* 🧰 Developer tools
+* 🚀 Startup ideas
+* 🤖 AI-powered applications
+* 🧠 Interesting software engineering problems
+
+If you're building something interesting, feel free to reach out.
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:sonusanju9955@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sonusanju9955%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sonu-sanju-99a55bc">
+    <img src="https://img.shields.io/badge/LinkedIn-Sonu%20Sanju-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Sonu2434">
+    <img src="https://img.shields.io/badge/GitHub-Sonu2434-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Activity Summary
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sonu2434&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Analytics" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu2434&layout=donut-vertical&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
+
+</p>
+
+---
+
+## 💡 Developer Philosophy
+
+> **"Don't just write code. Build something that solves a real problem."**
+
+I believe great software comes from combining **problem-solving, clean engineering, continuous learning, and empathy for the people who use it.**
+
+---
+
+<p align="center">
+  <b>⭐ If you find something useful in my repositories, consider giving it a star!</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! Let's build something amazing together. 🚀</i>
+</p>
